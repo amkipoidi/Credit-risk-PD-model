@@ -6,7 +6,7 @@ Ce projet implémente un modèle de Probabilité de Défaut (PD) en risque de cr
 L’objectif est d’estimer la probabilité qu’un emprunteur fasse défaut
 sur un crédit à partir de variables financières et comportementales.
 
-🎯 Objectif du projet
+ Objectif du projet
 
 Construire un modèle de PD interprétable
 
@@ -16,7 +16,7 @@ Améliorer la capacité de discrimination du modèle (AUC)
 
 Appliquer des pratiques standards utilisées en banque
 
-🧠 Méthodologie
+ Méthodologie
 
 Le projet suit les étapes classiques d’un modèle de risque de crédit :
 
@@ -30,7 +30,7 @@ Feature engineering avec WOE (Weight of Evidence)
 
 Évaluation du modèle avec l’AUC (ROC)
 
-📊 Évaluation du modèle
+ Évaluation du modèle
 
 Variable cible : not.fully.paid
 
@@ -44,13 +44,13 @@ AUC ≈ 0.67 pour le modèle de base
 
 Amélioration de la performance après encodage WOE
 
-🗂 Structure du projet
+ Structure du projet
 credit-risk-pd/
 │
 ├── project_estimate_pd.py   # Script principal
 ├── README.md                # Description du projet
 ├── requirements.txt         # Dépendances Python
-▶️ Exécution du projet
+ Exécution du projet
 
 
 Installer les dépendances :
