@@ -52,10 +52,6 @@ credit-risk-pd/
 ├── requirements.txt         # Dépendances Python
 ▶️ Exécution du projet
 
-Cloner le dépôt :
-
-git clone https://github.com/VOTRE_PSEUDO/credit-risk-pd.git
-cd credit-risk-pd
 
 Installer les dépendances :
 
